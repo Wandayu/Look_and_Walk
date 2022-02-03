@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EFM",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/27eefe99d0c649968a7a3ad503ce6940"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
